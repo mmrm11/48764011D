@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c32062534" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -152,6 +152,15 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Affected by media, family, and peers, most of the contemporary girls take a number of actions to make their bodies slimmer (Krcmar et al.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="esteban" changedate="20230514T155207Z" creationid="esteban" creationdate="20230514T155207Z">
+        <seg> Afectadas por los medios de comunicación, la familia y los compañeros, la mayoría de las chicas contemporáneas adoptan una serie de medidas para adelgazar su cuerpo (Krcmar et al 2008).
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Among peers, certain body images would be adopted while some would be discouraged.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230516T122747Z" creationid="OmegaT Aligner" creationdate="20230516T122747Z">
@@ -208,10 +217,27 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>As a result, popular beauty messages arouse body dissatisfaction and other negative manifestations among children and girls in particular.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230509T154509Z" creationid="OmegaT Aligner" creationdate="20230509T154509Z">
+        <seg>En consecuencia, los mensajes populares sobre la belleza despiertan insatisfacción corporal y otras manifestaciones negativas entre los niños y las niñas en particular.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>As a result, the contemporary culture and its perception of bodily beauty affect both women and men of all ages.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="lopez" changedate="20230508T180317Z" creationid="lopez" creationdate="20230508T180317Z">
         <seg>Por consiguiente, la cultura actual y su percepción de la belleza corporal afecta tanto a hombres como a mujeres de todas las edades.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>As it has already been mentioned, one of the substantial negative consequences of girls’ obsession with the current body image is low levels of self-esteem.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="esteban" changedate="20230514T154920Z" creationid="esteban" creationdate="20230514T154920Z">
+        <seg>Como ya se ha mencionado, una de las consecuencias negativas sustanciales de la obsesión de las chicas por la imagen corporal actual son los bajos niveles de autoestima.
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -256,10 +282,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>At the same time, they wear immodest clothes on their fashion model like bodies.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230514T173951Z" creationid="OmegaT Aligner" creationdate="20230514T173951Z">
+        <seg>Al mismo tiempo, visten ropas impúdicas en sus cuerpos que parecen modelos de moda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>At this age, they would start talking about the perfect body images (Kashubeck, Marchand-Martella, Neal, &amp; Larsen, 1997).</seg>
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230516T122747Z" creationid="OmegaT Aligner" creationdate="20230516T122747Z">
         <seg>A esta edad, empezarían a hablar de las imágenes corporales perfectas (Kashubeck, Marchand-Martella, Neal, (Kashubeck, Marchand-Martella, Neal y Larsen, 1997).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Athletic kind of beauty is peculiar to girls naturally pretty who are more interested in sports than boys are or fashion (Northup &amp; Liebler, 2010).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230514T173951Z" creationid="OmegaT Aligner" creationdate="20230514T173951Z">
+        <seg>El tipo de belleza atlética es propio de las chicas naturalmente guapas que están más interesadas en los deportes que los chicos o en la moda (Northup y Liebler, 2010).</seg>
       </tuv>
     </tu>
     <tu>
@@ -361,6 +403,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Characters in video games reflect trends existing in society; thus, they contain many violent scenes popular in other media resources.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230514T173951Z" creationid="OmegaT Aligner" creationdate="20230514T173951Z">
+        <seg>Los personajes de los videojuegos reflejan las tendencias existentes en la sociedad; así, contienen muchas escenas violentas populares en otros recursos mediáticos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Children grow up knowing that only recommended shapes are allowed in society.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230516T122747Z" creationid="OmegaT Aligner" creationdate="20230516T122747Z">
@@ -409,6 +459,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Classic beauty is characterized by traditional femininity such as long hair, fashionable clothes with little amount of accessories, and a general soft image.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230514T173951Z" creationid="OmegaT Aligner" creationdate="20230514T173951Z">
+        <seg>La belleza clásica se caracteriza por la feminidad tradicional, como el pelo largo, la ropa de moda con pocos accesorios y una imagen suave en general.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Conclusion</seg>
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230516T122747Z" creationid="OmegaT Aligner" creationdate="20230516T122747Z">
@@ -421,6 +479,22 @@
       </tuv>
       <tuv lang="es-ES" changeid="lopez" changedate="20230508T180340Z" creationid="lopez" creationdate="20230508T180340Z">
         <seg>Consecuencias de las inseguridades corporales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Contemporary television and advertising promote of masculine male beauty, which is a traditional approach to men’s physical appearance.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230514T173951Z" creationid="OmegaT Aligner" creationdate="20230514T173951Z">
+        <seg>La televisión y la publicidad contemporáneas promueven la belleza masculina, que es un enfoque tradicional del aspecto físico de los hombres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Defining Body Image and Prevalence Rates</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="esteban" changedate="20230502T102441Z" creationid="esteban" creationdate="20230502T102441Z">
+        <seg>Definición de la imagen corporal y las tasas de prevalencia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -469,6 +543,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230516T122747Z" creationid="OmegaT Aligner" creationdate="20230516T122747Z">
         <seg>Aunque pocos investigadores han intentado realizar estudios sobre la influencia de los compañeros en la imagen corporal de los niños, se ha establecido que la amistad afecta a la imagen corporal, las dietas y los comportamientos de los niños.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Family relationships play a considerable role in a person’s development and perception of body image.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="esteban" changedate="20230502T095632Z" creationid="esteban" creationdate="20230502T095632Z">
+        <seg>Las relaciones familiares juegan un papel  importante en el desarrollo y la percepción de la imagen corporal de una persona.</seg>
       </tuv>
     </tu>
     <tu>
@@ -585,6 +667,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>From a study conducted by Dohnt and Tiggermann (2006), one can say that the influence of parents is explicit regarding the children’s body image formation.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="esteban" changedate="20230502T100035Z" creationid="esteban" creationdate="20230502T100035Z">
+        <seg>De un estudio realizado por Dohnt y Tiggermann( 2006), se puede decir que la influencia de los padres es explícita en la formación de la imagen corporal de los niños.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>From the above statement, the body image research, which emerged in the 1980s as a natural consequence of the growing interest in eating disorders, indicates the connection of many disorders cases with the body dissatisfaction.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="esteban" changedate="20230514T154552Z" creationid="esteban" creationdate="20230514T154552Z">
+        <seg>A partir de la afirmación anterior, la investigación sobre la imagen corporal, que surgió en la década de 1980 como consecuencia natural del creciente interés por los trastornos alimentarios, indica la conexión de muchos casos de trastornos con la insatisfacción corporal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>From the above statistics, it can be observed that due to media influences, people possess inaccurate perceptions of their bodies.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="paula" changedate="20230502T064406Z" creationid="paula" creationdate="20230502T064110Z">
@@ -625,6 +723,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Hayes and TantIeff-Dunn (2010) explained this trend by exploring children’s age development.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230509T154509Z" creationid="OmegaT Aligner" creationdate="20230509T154509Z">
+        <seg>Hayes y TantIeff-Dunn (2010) explicaron esta tendencia explorando el desarrollo de la edad de los niños.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Hence, males have become obsessed with developing a muscular figure that often leads to health-threatening behaviors such as use of steroids, ephedrine, and dangerous diets (Cafri, 2004)</seg>
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230505T085824Z" creationid="OmegaT Aligner" creationdate="20230505T085824Z">
@@ -641,10 +747,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>However, most of the works dedicated to the study of the body image and its impacts on children reveal that there is tendency where children aged of six years experience dissatisfaction as regards to their bodies.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230509T154509Z" creationid="OmegaT Aligner" creationdate="20230509T154509Z">
+        <seg>Sin embargo, la mayoría de los trabajos dedicados al estudio de la imagen corporal y sus impactos en los niños revelan que existe una tendencia a que los niños de seis años experimenten insatisfacción con respecto a su cuerpo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>However, recent research indicates that boys and men are increasingly likely to report body dissatisfaction (Ricciardelli, 2003), Cafri et al.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="marmo" changedate="20230505T091351Z" creationid="OmegaT Aligner" creationdate="20230505T085824Z">
         <seg>Sin embargo, investigaciones recientes indican que es cada vez más probable que los niños y los hombres manifiesten insatisfacción corporal (Ricciardelli, 2003), Cafri et al.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>However, such weight-based distinction of female roles creates proper perception of body image and the role of physical attractiveness in women’s life.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230514T173951Z" creationid="OmegaT Aligner" creationdate="20230514T173951Z">
+        <seg>Sin embargo, esta distinción de los roles femeninos basada en el peso crea una percepción adecuada de la imagen corporal y del papel del atractivo físico en la vida de las mujeres.</seg>
       </tuv>
     </tu>
     <tu>
@@ -754,6 +876,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In addition to peers’ and parents’ influence, the contemporary media produce the substantial impact on children’s body image.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="esteban" changedate="20230502T101335Z" creationid="esteban" creationdate="20230502T101335Z">
+        <seg>Además de la influencia de pares y padres, los medios de comunicación contemporáneos producen un impacto sustancial en la imagen corporal de los niños.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In addition to the beauty standards represented on television and advertising, video games produce a significant impact of children’s perception of body image.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230514T173951Z" creationid="OmegaT Aligner" creationdate="20230514T173951Z">
+        <seg>Además de los cánones de belleza representados en la televisión y la publicidad, los videojuegos producen un impacto significativo en la percepción de la imagen corporal de los niños.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In advertising pauses, children get another portion of information speculating on physical beauty and sexuality.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="lopez" changedate="20230516T143152Z" creationid="lopez" creationdate="20230516T143152Z">
@@ -786,6 +924,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In modern media, thin females are used to glamorize different beauty products while average-sized women are employed to promote household product.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230514T173951Z" creationid="OmegaT Aligner" creationdate="20230514T173951Z">
+        <seg>En los medios de comunicación modernos, las mujeres delgadas se utilizan para dar glamour a distintos productos de belleza, mientras que las de estatura media se emplean para promocionar productos domésticos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In most families of the world, preparation of food is the role of the mother (Richardson, &amp; Rehr, 2001).</seg>
       </tuv>
       <tuv lang="es-ES" changeid="marmo" changedate="20230515T081800Z" creationid="marmo" creationdate="20230515T081800Z">
@@ -798,6 +944,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="marmo" changedate="20230501T220702Z" creationid="marmo" creationdate="20230501T220702Z">
         <seg>En un estudio reciente, el 28,7% de personas entre los 20 y los 24 años están satisfechos con sus cuerpos. (Markey, &amp; Markey 2010).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In other words, they value their thin body sizes in different capacities.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230509T154509Z" creationid="OmegaT Aligner" creationdate="20230509T154509Z">
+        <seg>En otras palabras, valoran su delgadez corporal de forma diferente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -844,8 +998,8 @@
       <tuv lang="en">
         <seg>In the modern world filled with technology advancements like computers, game devices, and varied software, it is essential to consider the impact produced by video games on children’s behaviors and perception of body image.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="lopez" changedate="20230516T135640Z" creationid="lopez" creationdate="20230516T135640Z">
-        <seg>pIn the modern world filled with technology advancements like computers, game devices, and varied software, it is essential to consider the impact produced by video games on children’s behaviors and perception of body image.</seg>
+      <tuv lang="es-ES" changeid="esteban" changedate="20230516T143816Z" creationid="esteban" creationdate="20230516T143816Z">
+        <seg>In the modern world filled with technology advancements like computers, game devices, and varied software, it is essential to consider the impact produced by video games on children’s behaviors and perception of body imag</seg>
       </tuv>
     </tu>
     <tu>
@@ -986,6 +1140,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It is obvious that media influence girls more.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="esteban" changedate="20230516T133912Z" creationid="OmegaT Aligner" creationdate="20230514T173951Z">
+        <seg>.Es evidente que los medios de comunicación influyen más en las chicas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It is obvious that muscles are observed better on slim bodies with flat stomachs.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="lopez" changedate="20230508T180205Z" creationid="lopez" creationdate="20230508T180205Z">
@@ -1035,6 +1197,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Male characters are mostly illustrated as strong and muscular warriors; female characters are also frequently involved in fight scenes.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230514T173951Z" creationid="OmegaT Aligner" creationdate="20230514T173951Z">
+        <seg>La mayoría de los personajes masculinos son guerreros fuertes y musculosos; las mujeres también participan con frecuencia en escenas de lucha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Markey and Markey (2010) stated that at the start of the twentieth century, body image studies initially focused on personality or self-concept and frequently scrutinized samples of psychologically impeded or if not psychologically ailing or impaired individuals’ sense of self (not essentially their physical body).</seg>
       </tuv>
       <tuv lang="es-ES" changeid="lopez" changedate="20230508T180518Z" creationid="lopez" creationdate="20230508T180518Z">
@@ -1063,6 +1233,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="paula" changedate="20230501T165124Z" creationid="paula" creationdate="20230501T164812Z">
         <seg>La influencia de las redes sociales en la imagen corporal de los niños y adolescentes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Media Message</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230514T173951Z" creationid="OmegaT Aligner" creationdate="20230514T173951Z">
+        <seg>Mensaje de los medios de comunicación</seg>
       </tuv>
     </tu>
     <tu>
@@ -1099,10 +1277,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Men of all ages, nationalities, and sexual orientations desire this ideal masculine physique (Ryan &amp; Morrison, 2009).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230514T173951Z" creationid="OmegaT Aligner" creationdate="20230514T173951Z">
+        <seg>Hombres de todas las edades, nacionalidades y orientaciones sexuales desean este físico masculino ideal (Ryan &amp; Morrison, 2009).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Millions of people spend hours in front of their TVs watching shows, observing new fashion trends, and listening to the broadcast ideas and concepts.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="lopez" changedate="20230516T135811Z" creationid="lopez" creationdate="20230516T135811Z">
         <seg>Millones de personas pasan horas delante de la televisión viendo programas, observando las nuevas tendencias de la moda, y escuchando las ideas y conceptos emitidos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Moreover, 13% of girls admitted engaging in at least one extreme behavior for weight losing per week (Paxton et al., 1991).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230509T154509Z" creationid="OmegaT Aligner" creationdate="20230509T154509Z">
+        <seg>Además, el 13% de las niñas admitió tener al menos un comportamiento extremo para perder peso a la semana (Paxton et al., 1991).</seg>
       </tuv>
     </tu>
     <tu>
@@ -1135,6 +1329,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="lopez" changedate="20230516T135911Z" creationid="lopez" creationdate="20230516T135911Z">
         <seg>La mayoría de los programas favoritos de los niños emitidos en Nickelodeon y Disney Channel promueven la delgadez como estándar de belleza y hacen hincapié en la necesidad de poseer un atractivo físico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Most of the media content illustrates females in different sexual roles whose peculiar features are thin bodies, long legs, big breast, etc.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230514T173951Z" creationid="OmegaT Aligner" creationdate="20230514T173951Z">
+        <seg>La mayor parte del contenido de los medios ilustra a mujeres en diferentes roles sexuales cuyas características peculiares son cuerpos delgados, piernas largas, pechos grandes, etc.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1203,10 +1405,34 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Nerveless, it is impossible to eliminate its impact on boys’ body image.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230514T173951Z" creationid="OmegaT Aligner" creationdate="20230514T173951Z">
+        <seg>Sin embargo, es imposible eliminar su impacto en la imagen corporal de los chicos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Nevertheless, male ideals of body image also exist, which are reinforced by various media.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230505T085824Z" creationid="OmegaT Aligner" creationdate="20230505T085824Z">
         <seg>Sin embargo, también existen ideales masculinos de imagen corporal, que se ven reforzados por diversos medios de comunicación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No much attention is paid to the issue of slenderness thus, men and boys are less vulnerable to the obsession with body image that women and girls (Ryan &amp; Morrison, 2009).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230514T173951Z" creationid="OmegaT Aligner" creationdate="20230514T173951Z">
+        <seg>No se presta mucha atención a la cuestión de la delgadez, por lo que los hombres y los niños son menos vulnerables a la obsesión por la imagen corporal que las mujeres y las niñas (Ryan &amp; Morrison, 2009).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Northup and Liebler (2010) identified six major beauty ideals proposed and promoted by the contemporary media – classic, trendy, athletic, brainy, next-door girl, and alternative.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230514T173951Z" creationid="OmegaT Aligner" creationdate="20230514T173951Z">
+        <seg>Northup y Liebler (2010) identificaron seis grandes ideales de belleza propuestos y promovidos por los medios de comunicación contemporáneos: clásico, moderno, atlético, inteligente, chica de al lado y alternativo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1276,11 +1502,27 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Parental encouragement of activities aimed at losing weight and keeping to a diet is likely to provoke body dissatisfaction among their children (Markey, &amp; Markey 2010).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="esteban" changedate="20230502T100311Z" creationid="esteban" creationdate="20230502T100311Z">
+        <seg>El estímulo de los padres a las acxtividades destinadas a perder peso y mantener una dieta puede provocar insatisfacción corporal entre sus hijos(Markey, &amp; Markey2010).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Paxton, Wertheim, Gibbons, Szmukler, Hillier, &amp; Petrovich, (1991) conducted a survey of 221 male and 341 female high school students.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="lopez" changedate="20230504T182405Z" creationid="lopez" creationdate="20230504T182405Z">
         <seg>Paxton, Wertheim, Gibbons, Szmukler, Hillier y Petrovich (1991) realizaron una encuesta entre 221 alumnos y 341 alumnas de secundaria. 
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Peer communication also contributes to shaping adolescents’ feelings and perceptions of their bodies.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="esteban" changedate="20230505T094127Z" creationid="esteban" creationdate="20230502T100750Z">
+        <seg>La comunicación entre pares también contribuye a moldear los sentimientos y percepciones de los adolescentes sobre sus cuerpos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1398,6 +1640,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Regular observations of slim models arouse dissatisfaction with body proportions possessed by girls and women of average/normal size due to their inability to achieve impossible beauty standards broadcast in media (Fauquet, 2010).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230514T173951Z" creationid="OmegaT Aligner" creationdate="20230514T173951Z">
+        <seg>La observación habitual de modelos delgadas despierta insatisfacción con las proporciones corporales que poseen las niñas y mujeres de talla media/normal debido a su incapacidad para alcanzar los estándares de belleza imposibles que difunden los medios de comunicación (Fauquet, 2010).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Regular peer interactions dedicated to the issues of beauty and appearance cause lead to the development of unwanted human behavior, which would lead to body dissatisfaction.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="esteban" changedate="20230502T101031Z" creationid="esteban" creationdate="20230502T101031Z">
+        <seg>Interacciones regulares entre pares dedicadas a las cuestiones de belleza y apariencia causan el desarrollo de un comportamiento humano no deseado, lo que llevaría a la insatisfacción corporal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Research on Children’s and Youth’s Body Image Dissatisfaction</seg>
       </tuv>
       <tuv lang="es-ES" changeid="paula" changedate="20230502T065716Z" creationid="paula" creationdate="20230502T065716Z">
@@ -1442,6 +1700,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230516T122747Z" creationid="OmegaT Aligner" creationdate="20230516T122747Z">
         <seg>Desde la infancia, el niño es introducido a los ideales de imágenes corporales perfectas, lo que le da el deseo de explorar más.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ryan and Morrison (2009) referred to a number of publications revealing recent increased interest to men’s body due to the expansion of media resources.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230514T173951Z" creationid="OmegaT Aligner" creationdate="20230514T173951Z">
+        <seg>Ryan y Morrison (2009) se refirieron a una serie de publicaciones que revelan el reciente aumento del interés por el cuerpo de los hombres debido a la expansión de los recursos mediáticos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1511,6 +1777,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Some scholars have suggested different views that explain the influence of body sizes to the lives of children.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230509T154509Z" creationid="OmegaT Aligner" creationdate="20230509T154509Z">
+        <seg>Algunos estudiosos han sugerido diferentes puntos de vista que explican la influencia de las tallas corporales en la vida de los niños.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Some scholars, such as Archibald, Graber, and Brooks-Gunn (1999) observed that even though parents play an important role in the lives of young adolescents, their presence in the lives of children is still valid as far as self-perception is concerned.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="marmo" changedate="20230515T093840Z" creationid="marmo" creationdate="20230515T093840Z">
@@ -1572,6 +1846,14 @@
       <tuv lang="es-ES" changeid="lopez" changedate="20230516T143017Z" creationid="lopez" creationdate="20230516T143017Z">
         <seg>Esa autopercepción como objetos de atractivo físico y deseo, causa estereotipos sexuales y valores vitales erróneos (Clark, &amp; Tiggemann, 2006).
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Television, cinema, radio, the internet, and print media affect young people’s understanding of their own bodies and the standards they should try to achieve in terms of physical beauty.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="esteban" changedate="20230502T101823Z" creationid="esteban" creationdate="20230502T101823Z">
+        <seg>La televisión, el cine, la radio, Internet y los medios impresos afectan a la comprensión de los jóvenes de su propio cuerpo y de los estándares que deben tratar de alcanzar en términos de belleza física.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1768,6 +2050,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The ideal man should have broad shoulders, narrow waist, and muscular arms, legs, stomach, and chest.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230514T173951Z" creationid="OmegaT Aligner" creationdate="20230514T173951Z">
+        <seg>El hombre ideal debe tener hombros anchos, cintura estrecha y brazos, piernas, estómago y pecho musculosos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The impact produced by the television content is significant; however, it is obvious that it is much greater in the context of children and teenagers who learn a considerable amount of information and are acquainted with society through the television.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="lopez" changedate="20230516T135833Z" creationid="lopez" creationdate="20230516T135833Z">
@@ -1813,6 +2103,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="lopez" changedate="20230516T142310Z" creationid="lopez" creationdate="20230516T142310Z">
         <seg>Se considera que el principal impacto lo producen los programas de televisión que promueven la belleza como símbolo de éxito y establecen determinados cánones de belleza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The major illustration of the standards of body beauty promoted by the modern media is fashion models.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230514T173951Z" creationid="OmegaT Aligner" creationdate="20230514T173951Z">
+        <seg>La mayor ilustración de los estándares de belleza corporal promovidos por los medios de comunicación modernos son las modelos de moda.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1874,6 +2172,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The performance of game characters is based on individual social-psychological models of self-concept and self-perception (Klimmt, Hefner, &amp; Vorderer, 2009).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230514T173951Z" creationid="OmegaT Aligner" creationdate="20230514T173951Z">
+        <seg>La actuación de los personajes de los juegos se basa en modelos sociopsicológicos individuales de autoconcepto y autopercepción (Klimmt, Hefner, &amp; Vorderer, 2009).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The present trends regarding body image among children have been observed within centuries, and they continue to be true at the contemporary period despite the societal revolution that took place in the middle of the 20&lt;s0&gt;th&lt;/s0&gt; century and marked the fundamental change in women’s perceptions regarding themselves.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230505T105330Z" creationid="OmegaT Aligner" creationdate="20230505T105330Z">
@@ -1886,6 +2192,30 @@
       </tuv>
       <tuv lang="es-ES" changeid="paula" changedate="20230501T165534Z" creationid="paula" creationdate="20230501T164958Z">
         <seg>El aumento rápido en la insatisfacción corporal al comienzo del siglo 21 ha llamado la atención de los científicos, investigadores, médicos y psicólogos (Markey &amp; Markey, 2010)... Una imagen corporal negativa contribuye a diferentes consecuencias psicológicas y físicas como hacer dieta, obesidad, bulimia y otras medidas extremas para controlar el peso y la apariencia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The recent statistics from the mental journal indicate that the dramatic increase of children’s dissatisfaction with their bodies calls for investigations into the causes of such behavior.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="esteban" changedate="20230502T102846Z" creationid="esteban" creationdate="20230502T102846Z">
+        <seg>Las estadisticas recientes de la revista mental indican que el aumento dramático de la insatisfacción de los niños con sus cuerpos exige que se investiguen las causas de tal comportamiento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The research of Prabu, Boyne, and German (2009) discovered that weight difference does not provoke any purchase drop among the consumers.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230514T173951Z" creationid="OmegaT Aligner" creationdate="20230514T173951Z">
+        <seg>La investigación de Prabu, Boyne y German (2009) descubrió que la diferencia de peso no provoca ningún descenso de compra entre los consumidores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The researches show that children playing video games identify themselves with game characters through temporal adoption of their properties (Klimmt, Hefner, &amp; Vorderer, 2009).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230514T173951Z" creationid="OmegaT Aligner" creationdate="20230514T173951Z">
+        <seg>Las investigaciones demuestran que los niños que juegan a videojuegos se identifican con los personajes del juego mediante la adopción temporal de sus propiedades (Klimmt, Hefner y Vorderer, 2009).</seg>
       </tuv>
     </tu>
     <tu>
@@ -1918,6 +2248,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230505T105330Z" creationid="OmegaT Aligner" creationdate="20230505T105330Z">
         <seg>El tamaño y la forma se han transformado en contextos de salud y atractivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The stated above information is sound evidence that the main message of the contemporary media is the issue of body image.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230514T173951Z" creationid="OmegaT Aligner" creationdate="20230514T173951Z">
+        <seg>La información anterior es una prueba fehaciente de que el mensaje principal de los medios de comunicación contemporáneos es el tema de la imagen corporal.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1996,6 +2334,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Their perfect body proportions are seen on television, magazines, advertising, etc.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230514T173951Z" creationid="OmegaT Aligner" creationdate="20230514T173951Z">
+        <seg>Sus proporciones corporales perfectas se ven en la televisión, las revistas, la publicidad, etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>There is a vast amount of publications discussing whether media influences kids’ perception of beauty and society and their behavioral traits or not.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="lopez" changedate="20230516T135932Z" creationid="lopez" creationdate="20230516T135932Z">
@@ -2024,6 +2370,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230516T122747Z" creationid="OmegaT Aligner" creationdate="20230516T122747Z">
         <seg>Por lo tanto, los adolescentes confían en sus amigos para establecer relaciones íntimas, revelarse y formar verdaderos compañerismos (Auslander, &amp; Dunham, 1996).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Therefore, contingent acting out of game characters’ behavioral traits – mostly aggression and obsession with physical attractiveness – aroused untimely or exaggerated development of sexual identity and negative manifestations of conduct.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230514T173951Z" creationid="OmegaT Aligner" creationdate="20230514T173951Z">
+        <seg>Por lo tanto, la actuación contingente de los rasgos de conducta de los personajes de los juegos -principalmente la agresividad y la obsesión por el atractivo físico- suscita un desarrollo intempestivo o exagerado de la identidad sexual y manifestaciones negativas de la conducta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2092,6 +2446,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Therefore, the present paper will focus on investigating the extent to which various socializing agents such as, particularly the media, influences children’s, and adolescents’ body image (Watson, 2006).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="esteban" changedate="20230502T102317Z" creationid="esteban" creationdate="20230502T102317Z">
+        <seg>Por lo tanto, el presente trabajo se centrará en investigar hasta qué punto, diversos agentes socializadores como los medios de comunicación, influyen en la imagen corporal de los niños y adolescentes (Watson,2006)..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>These changes have been brought about by cultural evolution and industrialization, which have altered the perceptions of females regarding their bodies.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230505T105330Z" creationid="OmegaT Aligner" creationdate="20230505T105330Z">
@@ -2120,6 +2482,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="marmo" changedate="20230515T084525Z" creationid="marmo" creationdate="20230515T084525Z">
         <seg>Por lo tanto, emplearán estrategias de adelgazamiento como dietas, ejercicio físico en exceso y el uso de fármacos como laxantes y diuréticos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Thin and long-legged models represent the world of fashion and beauty that is so intriguing and desired for girls and women.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230514T173951Z" creationid="OmegaT Aligner" creationdate="20230514T173951Z">
+        <seg>Las modelos delgadas y de piernas largas representan el mundo de la moda y la belleza tan intrigante y deseado por niñas y mujeres.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2180,6 +2550,15 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This psychological dependence on popular culture and beauty norms results in eating disorders.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="esteban" changedate="20230514T155245Z" creationid="esteban" creationdate="20230514T155245Z">
+        <seg>Esta dependencia psicológica de la cultura popular y de las normas de belleza da lugar a trastornos alimentarios.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This shows that eating disorder is one of the major causes of poor body shapes among children.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="marmo" changedate="20230508T203823Z" creationid="marmo" creationdate="20230508T203823Z">
@@ -2228,6 +2607,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This would mean that there is contrary evidence reflecting children’s dissatisfaction with their bodies because of their thinness.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230509T154509Z" creationid="OmegaT Aligner" creationdate="20230509T154509Z">
+        <seg>Esto significaría que existen pruebas contrarias que reflejan la insatisfacción de los niños con su cuerpo debido a su delgadez.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This would still depend on the mass media since the media suggests that certain body figures are ideal as opposed to others.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230516T122747Z" creationid="OmegaT Aligner" creationdate="20230516T122747Z">
@@ -2256,6 +2643,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="lopez" changedate="20230508T180219Z" creationid="lopez" creationdate="20230508T180219Z">
         <seg>Aunque, normalmente, los hombres están menos obsesionados por las fotos en las redes sociales y son menos propensos a tener inseguridades con sus cuerpos, sus percepciones viendo sus propios cuerpos dependen de factores sociales, como las imágenes en internet, la presión social, la propia identidad y la propia autoestima (Kirk Kiss, &amp; Burgess-Limerick, 2004).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Though men’s muscular beauty is associated with thinness, some extra fat is not demonstrated as the major obstacle.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230514T173951Z" creationid="OmegaT Aligner" creationdate="20230514T173951Z">
+        <seg>Aunque la belleza muscular de los hombres se asocia a la delgadez, no se demuestra que un poco de grasa extra sea el mayor obstáculo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2292,6 +2687,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Thus, Dohnt and Tiggemann (2006) identified that 60% of 5-year-old children want their bodies to be fatter and heavier than they perceive them to be.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230509T154509Z" creationid="OmegaT Aligner" creationdate="20230509T154509Z">
+        <seg>Así, Dohnt y Tiggemann (2006) identificaron que el 60% de los niños de 5 años desean que su cuerpo sea más gordo y pesado de lo que perciben.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Thus, an average model weighs 117 pounds being 5’11’’ tall while an average woman weighs 140 pounds being 5’4’’ tall.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="paula" changedate="20230502T065353Z" creationid="paula" creationdate="20230502T065353Z">
@@ -2304,6 +2707,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="lopez" changedate="20230516T142103Z" creationid="lopez" creationdate="20230516T142103Z">
         <seg>Así, los niños están muy motivados para adoptar y ejercer algunos comportamientos particulares en la vida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Thus, children over six are able to recognize the discrepancies between their bodies and popularized standards of physical beauty (Hayes &amp; TantIeff-Dunn, 2010).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230509T154509Z" creationid="OmegaT Aligner" creationdate="20230509T154509Z">
+        <seg>Así, los niños mayores de seis años son capaces de reconocer las discrepancias entre sus cuerpos y los cánones popularizados de belleza física (Hayes &amp; TantIeff-Dunn, 2010).</seg>
       </tuv>
     </tu>
     <tu>
@@ -2337,6 +2748,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="lopez" changedate="20230516T141049Z" creationid="lopez" creationdate="20230516T141049Z">
         <seg>Así, los medios influyen en la percepción que tienen los niños de distintos conceptos vitales no solo a través de la vista, sino también de los estados mentales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Thus, media production introducing a standard of male physical attractiveness emphasizes muscles development as a symbol of strength and health.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230514T173951Z" creationid="OmegaT Aligner" creationdate="20230514T173951Z">
+        <seg>Así, la producción mediática que introduce un estándar de atractivo físico masculino hace hincapié en el desarrollo de los músculos como símbolo de fuerza y salud.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2382,6 +2801,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Thus, the researchers showed that today 50% of girls under 15 start dieting (Champion &amp; Furnham, 1999).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="esteban" changedate="20230514T155431Z" creationid="esteban" creationdate="20230514T155431Z">
+        <seg>Así, los investigadores demostraron que hoy en día el 50% de las niñas menores de 15 años empiezan a hacer dieta (Champion &amp; Furnham, 1999).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Thus, thin body types promoted by the contemporary fashion magazines and other resources (Grogan, 1998), replaced ample curves of women in the middle Ages.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230505T105330Z" creationid="OmegaT Aligner" creationdate="20230505T105330Z">
@@ -2398,6 +2825,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To contrast, the US Center for Disease Control revealed that the majority of American states except few have obesity prevalence among children over 25% (Bissell, &amp; Hays, 2011).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="esteban" changedate="20230514T172107Z" creationid="esteban" creationdate="20230514T172107Z">
+        <seg>En contraste, el Centro de Control de Enfermedades de EE.UU. reveló que la mayoría de los estados norteamericanos, excepto unos pocos, tienen una prevalencia de obesidad infantil superior al 25% (Bissell, &amp; Hays, 2011).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Today, slimness is associated not only with physical beauty, but it has become a symbol of self-control, youthfulness, elegance, success, and social attractiveness.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="paula" changedate="20230505T110131Z" creationid="OmegaT Aligner" creationdate="20230505T105330Z">
@@ -2406,10 +2841,43 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Today, the topic of the body issue is not only adopted by medical, social, or psychological journals but is also intensely discussed by a variety of adolescent-oriented magazines and other information sources (Markey, &amp; Markey, 2010).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="esteban" changedate="20230514T154611Z" creationid="esteban" creationdate="20230514T154611Z">
+        <seg>Hoy en día, el tema de la cuestión corporal no sólo se adopta en revistas médicas, sociales o psicológicas, sino que también se debate intensamente en diversas revistas orientadas a los adolescentes y otras fuentes de información (Markey, &amp; Markey, 2010).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Trendy female character is a person obsessed with her appearance, boys’ perception and attention, and clothes.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230514T173951Z" creationid="OmegaT Aligner" creationdate="20230514T173951Z">
+        <seg>La femenina de moda es una persona obsesionada con su aspecto, la percepción y atención de los chicos y la ropa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unreal standards of body beauty promoted by media and social culture are impossible for girls to achieve.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="esteban" changedate="20230514T155026Z" creationid="esteban" creationdate="20230514T155026Z">
+        <seg>Los estándares irreales de belleza corporal promovidos por los medios de comunicación y la cultura social son imposibles de alcanzar para las chicas.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Verbal and non-verbal messages received by daughters from their mothers influence their body images.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="marmo" changedate="20230515T083824Z" creationid="marmo" creationdate="20230515T083824Z">
         <seg>Los mensajes verbales y no verbales que reciben las hijas de sus madres influyen en su imagen corporal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Video games are a kind of entertainment exercised by children in a regular manner.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230514T173951Z" creationid="OmegaT Aligner" creationdate="20230514T173951Z">
+        <seg>Los videojuegos son un tipo de entretenimiento ejercido por los niños de forma habitual.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2426,6 +2894,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="lopez" changedate="20230516T141313Z" creationid="lopez" creationdate="20230516T141313Z">
         <seg>Una vez adquirida y conservada la información, llega el momento de poner en práctica la acción adquirida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>While babies and young children engage in pretend plays through adopting the character role, older children focus on social comparisons with characters they adore.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230509T154509Z" creationid="OmegaT Aligner" creationdate="20230509T154509Z">
+        <seg>Mientras que los bebés y los niños pequeños participan en juegos de simulación adoptando el papel del personaje, los niños mayores se centran en las comparaciones sociales con los personajes que adoran.</seg>
       </tuv>
     </tu>
     <tu>
