@@ -4,6 +4,902 @@
   <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;s0&gt;301&lt;/s0&gt; qualified specialists online</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230501T170411Z" creationid="paula" creationdate="20230501T170411Z">
+        <seg>&lt;s0&gt;301&lt;/s0&gt; especialistas cualificados online</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A range of studies conducted by American organizations such as the US Center for Disease Control and National Health and Nutrition Examination Survey team identified high rates of children classified as overweight (Bissell, &amp; Hays, 2011).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230507T183809Z" creationid="paula" creationdate="20230507T183809Z">
+        <seg>Un gran abanico de estudios llevados a cabo por organizaciones norteamericanas como el US Center for Disease Control y National health and Nutrtion Examination Survey team identificaron un alto índice de niños clasificados como obesos (Bissell, &amp; Hays, 2011).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A strong relationship has been found between the early dissatisfaction with the body shape in children, and images in writings of various scholars on the body sizes.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230502T070031Z" creationid="paula" creationdate="20230502T070031Z">
+        <seg>Se ha encontrado una fuerte relación entre la insatisfacción corporal temprana en niños, e imágenes y escritos de diferentes académicos acerca de los tipos de cuerpos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A study conducted in Japan by Mukai in 1996 demonstrated that same-sex friends and mothers influenced adolescent girls to adopt some eating behaviors and attitudes.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230516T122747Z" creationid="OmegaT Aligner" creationdate="20230516T122747Z">
+        <seg>Un estudio realizado en Japón por Mukai en 1996 demostró que los amigos del mismo sexo y las madres influían en las adolescentes para que adoptaran algunas conductas y actitudes alimentarias.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A woman weighing 140 pounds is perceived to be healthy since weight would make her attractive irrespective of the beauty.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230502T065504Z" creationid="paula" creationdate="20230502T065504Z">
+        <seg>Una mujer que pesa 63kg se considera que esta sana, ya que el peso la hace atractiva independientemente de su belleza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Adolescents would tend to spend little time with their parents and more time with their friends as they turn sixteen (Knauss, Paxton, &amp; Alsaker, 2007).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230516T122747Z" creationid="OmegaT Aligner" creationdate="20230516T122747Z">
+        <seg>Los adolescentes tenderían a pasar poco tiempo con sus padres y más con sus amigos cuando cumplen dieciséis años (Knauss, Paxton y Alsaker, 2007).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Adults’ obsession with body image is frequently passed on to younger generations.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230502T065814Z" creationid="paula" creationdate="20230502T065814Z">
+        <seg>La obsesión de los adultos con la imagen corporal transmitida frecuentemente a generaciones más jóvenes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Among peers, certain body images would be adopted while some would be discouraged.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230516T122747Z" creationid="OmegaT Aligner" creationdate="20230516T122747Z">
+        <seg>Entre iguales, se adoptan ciertas imágenes corporales y se desaconsejan otras.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Another serious consequence of the popularization of slenderness is obesity.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230507T182735Z" creationid="paula" creationdate="20230507T182735Z">
+        <seg>Otra consecuencia serie a raíz de la popularización de la delgadez es la obesidad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>As a result, a large percentage of girls (up to 90%) and boys (up to 75%) experience body dissatisfaction (Markey, &amp; Markey, 2010).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230501T170300Z" creationid="paula" creationdate="20230501T170300Z">
+        <seg>Como resultado de esto, un gran porcentaje de chicas (hasta el 90%) y chicos (hasta el 75%) sufren de insatisfacción corporal (Markey, &amp; Markey, 2010) </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>As opposition to the current standards of physical attractiveness, a vast number of today’s children suffer from obesity.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230507T183457Z" creationid="paula" creationdate="20230507T183457Z">
+        <seg>En oposición a los estándares actuales del atractivo físico, una gran cantidad de los niños de hoy en día sufren de obesidad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>At such weight, a woman must perform her duties well (Hayes &amp; TantIeff-Dunn, 2010).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230502T065623Z" creationid="paula" creationdate="20230502T065623Z">
+        <seg>Con ese peso, una mujer debe ser capaz de realizar sus obligaciones correctamente (Hayes &amp; Tantleff-Dunn, 2010).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>At the same time, Ryan &amp; Morrison observed that two out of five women and about 20% of all men would forgo 3-5 years of their lives for the sake of obtaining the physical shape of their dream.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230502T064010Z" creationid="paula" creationdate="20230502T063708Z">
+        <seg>A su vez, Ryan y Morrison observaron que dos de cinco mujeres y al rededor de un 20% de hombres renuncian a sus vidascon tal de obtener la forma física de sus sueños.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>At this age, they would start talking about the perfect body images (Kashubeck, Marchand-Martella, Neal, &amp; Larsen, 1997).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230516T122747Z" creationid="OmegaT Aligner" creationdate="20230516T122747Z">
+        <seg>A esta edad, empezarían a hablar de las imágenes corporales perfectas (Kashubeck, Marchand-Martella, Neal, (Kashubeck, Marchand-Martella, Neal y Larsen, 1997).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Being fat, which is contrary to the models’ weight, is associated with a number of negative social attributes such as lethargy, self-indulgence, and slovenliness (Champion &amp; Furnham, 1999).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230507T183143Z" creationid="paula" creationdate="20230507T183143Z">
+        <seg>Estar gordo, considerado como contrario al estándard de peso, se asocia con varios atributos sociales negativos como pereza, autocomplaciente y dejadez.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Children grow up knowing that only recommended shapes are allowed in society.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230516T122747Z" creationid="OmegaT Aligner" creationdate="20230516T122747Z">
+        <seg>Los niños crecen sabiendo que en la sociedad sólo se permiten las formas recomendadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Children introduced to such weight interpretations and beauty stereotypes experience problems as regards to eating behaviors from early childhood.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230507T183332Z" creationid="paula" creationdate="20230507T183332Z">
+        <seg>Los niños que son expuestos a estas interpretaciones de estereotipos acerca del peso y la belleza experimentan problemas relacionados con la alimentación desde la niñez temprana.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Children of the same sex would consult over intimate relationships, including outlining the best body figures that would attract a partner of opposite sex.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230516T122747Z" creationid="OmegaT Aligner" creationdate="20230516T122747Z">
+        <seg>Los niños del mismo sexo consultaban sobre las relaciones íntimas, incluso esbozaban las mejores figuras corporales que atraerían a una pareja del sexo opuesto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Children would frequently try to do everything possible to ensure that they are acceptable in society.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230516T122747Z" creationid="OmegaT Aligner" creationdate="20230516T122747Z">
+        <seg>Con frecuencia, los niños intentarían hacer todo lo posible para ser aceptados en la sociedad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Children would want to be like their close friends in terms of body figures hence they would seek the advice of friends on how to lose weight.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230516T122747Z" creationid="OmegaT Aligner" creationdate="20230516T122747Z">
+        <seg>Los niños querrían parecerse a sus amigos íntimos en cuanto a figura corporal, de ahí que busquen el consejo de sus amigos sobre cómo perder peso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Conclusion</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230516T122747Z" creationid="OmegaT Aligner" creationdate="20230516T122747Z">
+        <seg>Conclusión</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Each socializing agent affects children in differently.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230516T122747Z" creationid="OmegaT Aligner" creationdate="20230516T122747Z">
+        <seg>Cada agente socializador afecta a los niños de forma diferente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Even though few researchers have tried to conduct studies regarding the influence of peers on the body images of children, it has been established that friendship affects the body image, diets, and behaviors of children.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230516T122747Z" creationid="OmegaT Aligner" creationdate="20230516T122747Z">
+        <seg>Aunque pocos investigadores han intentado realizar estudios sobre la influencia de los compañeros en la imagen corporal de los niños, se ha establecido que la amistad afecta a la imagen corporal, las dietas y los comportamientos de los niños.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, the above study indicated that three out of four females believe they are overweight, while only one out of four is obese.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230502T064444Z" creationid="paula" creationdate="20230502T064354Z">
+        <seg>Por ejemplo, el estudio anterior indica que tres de cuatro mujeres creen que tienen sobrepeso, mientras que solo una de cuatro tiene obesidad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For girls, they would want to associate with media personalities, particularly those in television.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230516T122747Z" creationid="OmegaT Aligner" creationdate="20230516T122747Z">
+        <seg>En el caso de las niñas, querrían asociarse con personalidades de los medios de comunicación, sobre todo de la televisión.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For instance, slimness is associated with beauty, whereas boldness is associated with primitiveness (Prabu, Natali, &amp; German, 2009).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230501T171104Z" creationid="paula" creationdate="20230501T171104Z">
+        <seg>Por ejemplo, estar delgado se asocia con la belleza, mientras que la audacia se asocia más con lo primitivo (Prabu, Natali &amp; German, 2009).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For instance, the mass media affects boys more as opposed to girls.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230516T122747Z" creationid="OmegaT Aligner" creationdate="20230516T122747Z">
+        <seg>Por ejemplo, los medios de comunicación afectan más a los chicos que a las chicas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For those who follow the rules and regulations, they are rewarded while those going against are severely punished.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230516T122747Z" creationid="OmegaT Aligner" creationdate="20230516T122747Z">
+        <seg>A los que siguen las normas y los reglamentos se les recompensa, mientras que a los que van en contra se les castiga severamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>From the above statistics, it can be observed that due to media influences, people possess inaccurate perceptions of their bodies.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230502T064406Z" creationid="paula" creationdate="20230502T064110Z">
+        <seg>Según las estadísticas anteriores, es posible observar que debido a la influencia de las redes sociales la gente obtiene una percepción equivocada de su cuerpo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Further, at this age, adolescents start experiencing romantic relationships that promote precise attention to their body image and weight status.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230501T170124Z" creationid="paula" creationdate="20230501T170124Z">
+        <seg>Además, a esta edad los adolescentes comienzan a experimentar relaciones románticas que fomentan más atención a las condiciones de su imagen corporal y peso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Girls would be interested in pleasing members of the opposite sex and would therefore explore all avenues to ensure that they are attractive (Lieberman, Doyle, &amp; Markiewicz, 1999).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230516T122747Z" creationid="OmegaT Aligner" creationdate="20230516T122747Z">
+        <seg>Las chicas estarían interesadas en agradar a los miembros del sexo opuesto y, por lo tanto, explorarían todas las vías para asegurarse de que son atractivas (Lieberman, Doyle y Markiewicz, 1999).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>However, it is true that children rarely consult their friends over issues related to conflicts.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230516T122747Z" creationid="OmegaT Aligner" creationdate="20230516T122747Z">
+        <seg>Sin embargo, es cierto que los niños rara vez consultan a sus amigos sobre cuestiones relacionadas con conflictos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In 1999, Paxton, Schultz, Wertheim, and Muir had conducted a similar study on Australian high school girls.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230516T122747Z" creationid="OmegaT Aligner" creationdate="20230516T122747Z">
+        <seg>En 1999, Paxton, Schultz, Wertheim y Muir realizaron un estudio similar con chicas de secundaria australianas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In 2001, Lieberman, Gauvin, and Bukowski conducted an extensive study on Canadian students and postulated that peer pressure influenced peer related components such as peer mockery, attractiveness, and negative peer relationships.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230516T122747Z" creationid="OmegaT Aligner" creationdate="20230516T122747Z">
+        <seg>En 2001, Lieberman, Gauvin y Bukowski llevaron a cabo un amplio estudio sobre estudiantes canadienses y postularon que la presión de grupo influía en los componentes relacionados con los compañeros, como la burla de los compañeros, el atractivo y las relaciones negativas con los compañeros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In Japan, just like in other parts of the world, role models deliver messages to girls suggesting that thinness makes women attractive.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230516T122747Z" creationid="OmegaT Aligner" creationdate="20230516T122747Z">
+        <seg>En Japón, al igual que en otras partes del mundo, los modelos de conducta transmiten a las niñas mensajes que sugieren que la delgadez hace atractivas a las mujeres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In a study conducted in 1990s, it was established that same-sex relationships among peers influences the socialization of children as opposed to any other relationship.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230516T122747Z" creationid="OmegaT Aligner" creationdate="20230516T122747Z">
+        <seg>En un estudio realizado en los años 90, se estableció que las relaciones entre iguales del mismo sexo influyen en la socialización de los niños más que cualquier otra relación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In a study involving college students, the idea of social reinforcements and modeling could perhaps be employed to comprehend the sorority of children and reported cases of eating malfunctions.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230516T122747Z" creationid="OmegaT Aligner" creationdate="20230516T122747Z">
+        <seg>En un estudio en el que participaron estudiantes universitarias, la idea de los refuerzos sociales y el modelado quizá podría emplearse para comprender la sororidad de los niños y los casos notificados de disfunciones alimentarias.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In particular, it is noted that children are influenced to adopt some of the behaviors that might be detrimental to their growth and development.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230501T170746Z" creationid="paula" creationdate="20230501T170746Z">
+        <seg>Particularmente se observa que los niños son influenciados a adoptar algunos comportamientos que pueden ser perjudicial para su propio crecimiento y desarrollo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the US, Kashubeck, Marchand-Martella, Neal, and Larsen (1997) analyzed the correlation between the need to be slim and the bulimic symptom among college students (Alta, Ludden, &amp; Lally, 2007).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230516T122747Z" creationid="OmegaT Aligner" creationdate="20230516T122747Z">
+        <seg>En EE.UU., Kashubeck, Marchand-Martella, Neal y Larsen (1997) analizaron la correlación entre la necesidad de estar delgada y el síntoma bulímico entre estudiantes universitarias (Alta, Ludden y Lally, 2007).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In this article, the influence of media on the socialization of children will be discussed in detail.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230501T170554Z" creationid="paula" creationdate="20230501T170554Z">
+        <seg>En este artículo, la influencia de las redes sociales en la socialización los niños será tratado en detalle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In this regard, overweight girls would always be criticized.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230516T122747Z" creationid="OmegaT Aligner" creationdate="20230516T122747Z">
+        <seg>En este sentido, las chicas con sobrepeso siempre serían criticadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Information regarding the perfect body size is readily available in the mass media that is, both print and visual.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230516T122747Z" creationid="OmegaT Aligner" creationdate="20230516T122747Z">
+        <seg>Los medios de comunicación, tanto impresos como visuales, ofrecen información sobre el tamaño perfecto del cuerpo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Introduction</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230501T164307Z" creationid="paula" creationdate="20230501T164307Z">
+        <seg>Introducción</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It is also concluded that self-assessment on physical appearance among children is an important feature as far as self-worth and psychological health are concerned.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230516T122747Z" creationid="OmegaT Aligner" creationdate="20230516T122747Z">
+        <seg>También se concluye que la autovaloración del aspecto físico entre los niños es una característica importante en lo que respecta a la autoestima y la salud psicológica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It should be noted that scholars have not yet generated enough data regarding the effects of various socializing agents on the growth and development of children.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230516T122747Z" creationid="OmegaT Aligner" creationdate="20230516T122747Z">
+        <seg>Hay que señalar que los estudiosos aún no han generado suficientes datos sobre los efectos de los distintos agentes socializadores en el crecimiento y el desarrollo de los niños.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It would also mean that friends and parents have different roles to play as regards to the behaviors of children.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230516T122747Z" creationid="OmegaT Aligner" creationdate="20230516T122747Z">
+        <seg>También significa que los amigos y los padres desempeñan papeles diferentes en el comportamiento de los hijos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Learn more</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230501T170344Z" creationid="paula" creationdate="20230501T170344Z">
+        <seg>Saber más</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Levine, Smolak, Moodey, Shuman, and Hessen conducted a similar study in the United States in 1994.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230516T122747Z" creationid="OmegaT Aligner" creationdate="20230516T122747Z">
+        <seg>Levine, Smolak, Moodey, Shuman y Hessen realizaron un estudio similar en Estados Unidos en 1994.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Media Influence</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230507T184013Z" creationid="paula" creationdate="20230507T184013Z">
+        <seg>La influencia de las redes sociales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Media Influence on Children’s and Teens’ Body Image</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230501T165124Z" creationid="paula" creationdate="20230501T164812Z">
+        <seg>La influencia de las redes sociales en la imagen corporal de los niños y adolescentes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Media has promoted the beauty ideal that is hardly achievable for ordinary people.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230502T064841Z" creationid="paula" creationdate="20230502T064841Z">
+        <seg>Las redes sociales han fomentado el ideal de belleza que es difícilmente alcanzable para la gente normal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Media have become an inseparable part of everyday life; it is present everywhere – at home, at work, in the street, etc.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230507T184131Z" creationid="paula" creationdate="20230507T184131Z">
+        <seg>Las redes sociales se han convertido en una parte inherente de la vida diaria; está en todas partes, en casa, en el trabajo, en la calle, etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On the other hand, various socializing agents are responsible for the behaviors possessed by children.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230516T122747Z" creationid="OmegaT Aligner" creationdate="20230516T122747Z">
+        <seg>Por otra parte, diversos agentes socializadores son responsables de los comportamientos que poseen los niños.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>One of the most popular and thus, powerful components of media is television.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230507T184213Z" creationid="paula" creationdate="20230507T184213Z">
+        <seg>Una de las redes sociales más populares y, por lo tanto, más poderosa, es la televisión.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Peer pressure among youths is known to transform group norms and standards (Musher-Eizenman, Holub, Edwards-Leeper, Persson, &amp; Goldstein, 2003).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230516T122747Z" creationid="OmegaT Aligner" creationdate="20230516T122747Z">
+        <seg>Se sabe que la presión de los iguales entre los jóvenes transforma las normas y los estándares del grupo (Musher-Eizenman, Holub, Edwards-Leeper, Persson y Goldstein, 2003).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Peers have their own methods of ensuring that group members abide by the set rules and regulations.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230516T122747Z" creationid="OmegaT Aligner" creationdate="20230516T122747Z">
+        <seg>Los compañeros tienen sus propios métodos para asegurarse de que los miembros del grupo acatan las reglas y normas establecidas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Quite a number of researchers illustrate that the quality of relationships between adolescents and parents are complex.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230516T122747Z" creationid="OmegaT Aligner" creationdate="20230516T122747Z">
+        <seg>Numerosos investigadores ilustran que la calidad de las relaciones entre adolescentes y padres es compleja.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Recent models, such as the Bowlby’ lifetime model, hypothesize that attachment and connectedness to parental figures among children is productive to growth and development of children.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230516T122747Z" creationid="OmegaT Aligner" creationdate="20230516T122747Z">
+        <seg>Los modelos más recientes, como el modelo de Bowlby para toda la vida, plantean la hipótesis de que el apego y la conexión con las figuras parentales entre los niños es productivo para el crecimiento y el desarrollo de los niños.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Regarding body image, the media plays a crucial role since it portrays certain body figures to be significant as opposed to others.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230516T122747Z" creationid="OmegaT Aligner" creationdate="20230516T122747Z">
+        <seg>En cuanto a la imagen corporal, los medios de comunicación desempeñan un papel crucial, ya que presentan ciertas figuras corporales como significativas en comparación con otras.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Regarding the influence of peers on the body image of children, it is established that eating malfunctions and attempts to control the diet are related to the maturation and the desire to hang out with members of opposite sex.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230516T122747Z" creationid="OmegaT Aligner" creationdate="20230516T122747Z">
+        <seg>En cuanto a la influencia de los compañeros en la imagen corporal de los niños, se establece que las disfunciones alimentarias y los intentos de controlar la dieta están relacionados con la maduración y el deseo de salir con miembros del sexo opuesto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Research on Children’s and Youth’s Body Image Dissatisfaction</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230502T065716Z" creationid="paula" creationdate="20230502T065716Z">
+        <seg>Investigación acerca de la insatisfacción con la imagen corporal de niños y jóvenes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right from childhood, the child would be introduced to the ideals of perfect body images, which would give him or her desire to explore more.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230516T122747Z" creationid="OmegaT Aligner" creationdate="20230516T122747Z">
+        <seg>Desde la infancia, el niño es introducido a los ideales de imágenes corporales perfectas, lo que le da el deseo de explorar más.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Since children are unable to achieve desired physical proportions, they would probably forfeit eating in order to become seemingly beautiful and attractive.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230507T182859Z" creationid="paula" creationdate="20230507T182859Z">
+        <seg>Ya que los niños no son capaces de conseguir las proporciones físicas deseadas, probablemente dejen de comer para poder ser supuestamente atractivos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Some models of family functioning, such as psychoanalytic model, postulate that detachment among children is a normal developmental indicator of parent-child relationship during adolescence.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230516T122747Z" creationid="OmegaT Aligner" creationdate="20230516T122747Z">
+        <seg>Algunos modelos de funcionamiento familiar, como el modelo psicoanalítico, postulan que el desapego entre los hijos es un indicador normal del desarrollo de la relación padre-hijo durante la adolescencia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Some youths would share secrets and inner feelings freely with their peers since they would be comfortable exposing their body problems to friends as opposed to parents.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230516T122747Z" creationid="OmegaT Aligner" creationdate="20230516T122747Z">
+        <seg>Algunos jóvenes compartirían sus secretos y sentimientos íntimos libremente con sus compañeros, ya que se sentirían más cómodos exponiendo sus problemas corporales a sus amigos que a sus padres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Students within campus would influence one of the group members to be slim, by forfeiting food.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230516T122747Z" creationid="OmegaT Aligner" creationdate="20230516T122747Z">
+        <seg>Los estudiantes que vivían dentro del campus influían en uno de los miembros del grupo para que estuviera delgado, privándole de comer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Such children would frequently share information regarding intimacy and companionship.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230516T122747Z" creationid="OmegaT Aligner" creationdate="20230516T122747Z">
+        <seg>Estos niños compartirían con frecuencia información relativa a la intimidad y el compañerismo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The above scholar found out that girls consider mothers and same-sex peers to be role models, and they would try to emulate any figure possessed by such role models.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230516T122747Z" creationid="OmegaT Aligner" creationdate="20230516T122747Z">
+        <seg>El citado estudioso descubrió que las chicas consideran a las madres y a los compañeros del mismo sexo como modelos de conducta, e intentarían emular cualquier figura que poseyeran dichos modelos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The above scholars concluded their study by observing that older girls received much pressure from their friends to maintain certain body figures.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230516T122747Z" creationid="OmegaT Aligner" creationdate="20230516T122747Z">
+        <seg>Los estudiosos citados concluyeron su estudio observando que las chicas mayores recibían mucha presión de sus amigos para mantener determinadas figuras corporales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The above-mentioned peer components were found to influence dieting and would perhaps affect the eating behaviors, as well as the self-esteem of students.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230516T122747Z" creationid="OmegaT Aligner" creationdate="20230516T122747Z">
+        <seg>Se descubrió que los componentes de los compañeros mencionados influyen en las dietas y tal vez afecten a las conductas alimentarias, así como a la autoestima de las estudiantes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The bulimic behavior could only be investigated by considering whether a student resided within the campus premises or went home after classes.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230516T122747Z" creationid="OmegaT Aligner" creationdate="20230516T122747Z">
+        <seg>El comportamiento bulímico sólo pudo investigarse teniendo en cuenta si el estudiante residía dentro de las instalaciones del campus o se iba a casa después de las clases.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The discussion suggests that socio-cultural and psychosomatic components affect the development of children.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230516T122747Z" creationid="OmegaT Aligner" creationdate="20230516T122747Z">
+        <seg>La discusión sugiere que los componentes socioculturales y psicosomáticos afectan al desarrollo de los niños.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The family is usually the primary socializing agent and is expected to affect the child in many ways as compared to the peer, media, and other socializing agents.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230516T122747Z" creationid="OmegaT Aligner" creationdate="20230516T122747Z">
+        <seg>La familia suele ser el principal agente socializador y se espera que afecte al niño de muchas maneras en comparación con los compañeros, los medios de comunicación y otros agentes socializadores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The fashion industry has produced and popularized a vast amount of “the physically impossible, tall, thin, and busty Barbie-doll stereotype” models like Claudia Schiffer and Elle MacPherson (Grogan, 1998, p.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230505T105330Z" creationid="OmegaT Aligner" creationdate="20230505T105330Z">
+        <seg>La industria de la moda ha producido y popularizado una gran cantidad de modelos "del estereotipo de la muñeca Barbie, físicamente imposible, alta, delgada y pechugona", como Claudia Schiffer y Elle MacPherson (Grogan, 1998, p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The findings in Australia were close to the findings in Canada since friendship attitudes were believed to influence the body image of children, especially eating behavior and dietary expression.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230516T122747Z" creationid="OmegaT Aligner" creationdate="20230516T122747Z">
+        <seg>Los hallazgos en Australia se aproximaban a los de Canadá, ya que se creía que las actitudes hacia la amistad influían en la imagen corporal de los niños, especialmente en la conducta alimentaria y la expresión de la dieta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The findings of Mukai were consistent with the postulations of psychological adjustment theory, which states that older adolescent girls tend to interact more with their peers as opposed to young adolescents.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230516T122747Z" creationid="OmegaT Aligner" creationdate="20230516T122747Z">
+        <seg>Las conclusiones de Mukai concuerdan con las postulaciones de la teoría de la adaptación psicológica, según la cual las adolescentes de más edad tienden a relacionarse más con sus iguales que las adolescentes jóvenes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The findings suggest that the socializing agents affect girls and boys differently.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230516T122747Z" creationid="OmegaT Aligner" creationdate="20230516T122747Z">
+        <seg>Los resultados sugieren que los agentes socializadores afectan de forma diferente a las niñas y a los niños.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The issue of body image is most acute for adolescents whose pubertal development results in physical changes.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230501T165934Z" creationid="paula" creationdate="20230501T165934Z">
+        <seg>El problema de la imagen corporal afecta a adolescentes cuyo desarrollo en la adolescencia resulta en cambios físicos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The media portray some human features to be of value as compared to others.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230501T170929Z" creationid="paula" creationdate="20230501T170929Z">
+        <seg>Las redes sociales retratan algunos rasgos humanos como mejor valorados en comparación con otros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The peer and the family are known to affect girls more as opposed to boys.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230516T122747Z" creationid="OmegaT Aligner" creationdate="20230516T122747Z">
+        <seg>Se sabe que los compañeros y la familia afectan más a las chicas que a los chicos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The peer would ensure that children comply with the requirements of beauty for them to be accepted.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230516T122747Z" creationid="OmegaT Aligner" creationdate="20230516T122747Z">
+        <seg>Los iguales se asegurarían de que los niños cumplan los requisitos de belleza para que sean aceptados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The present trends regarding body image among children have been observed within centuries, and they continue to be true at the contemporary period despite the societal revolution that took place in the middle of the 20&lt;s0&gt;th&lt;/s0&gt; century and marked the fundamental change in women’s perceptions regarding themselves.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230505T105330Z" creationid="OmegaT Aligner" creationdate="20230505T105330Z">
+        <seg>Las tendencias actuales relativas a la imagen corporal entre los niños se han observado durante siglos, y siguen siendo ciertas en la época contemporánea a pesar de la revolución social que tuvo lugar a mediados del siglo XX y que marcó el cambio fundamental en la percepción que las mujeres tenían de sí mismas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The rapid increase in body dissatisfaction rates at the dawn of the 21&lt;s0&gt;st&lt;/s0&gt; century has attracted the attention of scientists, researchers, clinicians, and psychologists (Markey &amp; Markey, 2010)… Negative body image contributes to different psychological and physical consequences such as dieting, obesity, anorexia, bulimia, and other extreme measures of weight and appearance control.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230501T165534Z" creationid="paula" creationdate="20230501T164958Z">
+        <seg>El aumento rápido en la insatisfacción corporal al comienzo del siglo 21 ha llamado la atención de los científicos, investigadores, médicos y psicólogos (Markey &amp; Markey, 2010)... Una imagen corporal negativa contribuye a diferentes consecuencias psicológicas y físicas como hacer dieta, obesidad, bulimia y otras medidas extremas para controlar el peso y la apariencia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The role models usually urge girls to embrace thinness since it is the accepted figure in women.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230516T122747Z" creationid="OmegaT Aligner" creationdate="20230516T122747Z">
+        <seg>Los modelos de conducta suelen instar a las niñas a abrazar la delgadez, ya que es la figura aceptada en las mujeres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The severity of body image consequences is essential to investigate media, family, and peer surrounding as the major factors of children’s obsession with the body perfection.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230507T184004Z" creationid="paula" creationdate="20230507T184004Z">
+        <seg>La severidad de las consecuencias de la imagen corporal es esencial investigar redes sociales, familia y compañeros cercanos como los mayores factores de la obsesión en los niños con la perfección corporal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The size and shape have been transformed in the contexts of health and attractiveness.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230505T105330Z" creationid="OmegaT Aligner" creationdate="20230505T105330Z">
+        <seg>El tamaño y la forma se han transformado en contextos de salud y atractivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The studies postulate that women would do anything to attain the ideal body figure, which is related to slimness.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230516T122747Z" creationid="OmegaT Aligner" creationdate="20230516T122747Z">
+        <seg>Los estudios postulan que las mujeres harían cualquier cosa por alcanzar la figura corporal ideal, que está relacionada con la delgadez.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The studies related to body image among children suggest that thinness among women and masculinity among men are the desired qualities of a perfect person in society.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230516T122747Z" creationid="OmegaT Aligner" creationdate="20230516T122747Z">
+        <seg>Los estudios relacionados con la imagen corporal entre los niños sugieren que la delgadez entre las mujeres y la masculinidad entre los hombres son las cualidades deseadas de una persona perfecta en la sociedad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The study revealed that the need to be slim among girls resulted to various eating problems.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230516T122747Z" creationid="OmegaT Aligner" creationdate="20230516T122747Z">
+        <seg>El estudio reveló que la necesidad de estar delgadas entre las chicas daba lugar a diversos problemas alimentarios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Therefore, adolescents rely upon their friends in establishing intimate relationships, self-disclosure, and forming true companionships (Auslander, &amp; Dunham, 1996).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230516T122747Z" creationid="OmegaT Aligner" creationdate="20230516T122747Z">
+        <seg>Por lo tanto, los adolescentes confían en sus amigos para establecer relaciones íntimas, revelarse y formar verdaderos compañerismos (Auslander, &amp; Dunham, 1996).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Therefore, it can be observed that peer influence is the major cause of desired and undesired behaviors, feelings, and principles among youths (Presnell, Bearman, &amp; Madeley, 2007).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230516T123707Z" creationid="paula" creationdate="20230516T123707Z">
+        <seg>Por lo tanto, se puede observar que la influencia de los iguales es la principal causa de comportamientos, sentimientos y principios deseados y no deseados entre los jóvenes (Presnell, Bearman y Madeley, 2007).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Therefore, studies conducted about body image allow us to determine several factors that influence high rates of body dissatisfaction among adolescents.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230501T172931Z" creationid="paula" creationdate="20230501T172931Z">
+        <seg>Así pues, estudios llevados a cabo acerca de la imagen corporal nos permiten determinar varios factores que influencian a las tasas elevadas de insatisfacción corporal en los adolescentes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Therefore, the desire to belong may put much pressure on an adolescent to maintain a slim body, which might end up affecting the eating practices of an individual.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230516T122747Z" creationid="OmegaT Aligner" creationdate="20230516T122747Z">
+        <seg>Por lo tanto, el deseo de pertenencia puede ejercer mucha presión sobre un adolescente para que mantenga un cuerpo esbelto, lo que podría acabar afectando a las prácticas alimentarias de un individuo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>These changes have been brought about by cultural evolution and industrialization, which have altered the perceptions of females regarding their bodies.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230505T105330Z" creationid="OmegaT Aligner" creationdate="20230505T105330Z">
+        <seg>Estos cambios han sido provocados por la evolución cultural y la industrialización, que han alterado las percepciones de las mujeres con respecto a su cuerpo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>They would easily talk to their parents concerning issues that threaten their lives but not their friends.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230516T122747Z" creationid="OmegaT Aligner" creationdate="20230516T122747Z">
+        <seg>Hablarían fácilmente con sus padres sobre cuestiones que amenazan sus vidas, pero no con sus amigos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This affects the self-esteem of adolescents in many ways.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230516T122747Z" creationid="OmegaT Aligner" creationdate="20230516T122747Z">
+        <seg>Esto afecta a la autoestima de los adolescentes de muchas maneras.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This again explains the importance of both parents and peers to the well-being of children.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230516T122747Z" creationid="OmegaT Aligner" creationdate="20230516T122747Z">
+        <seg>Esto explica una vez más la importancia tanto de los padres como de los amigos para el bienestar de los niños.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This means that characters possessing positive behavioral traits such as kindness, success, and contentedness are frequently depicted as young, thin, and beautiful human beings.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230502T070301Z" creationid="paula" creationdate="20230502T070301Z">
+        <seg>Esto quiere decir que personas que tengan rasgos positivos de comportamiento como la amabilidad, éxito y alegría son descritos frecuentemente como seres vivos jóvenes, delgados y hermosos. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This means that friends influence the social life of an adolescent tremendously.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230516T122747Z" creationid="OmegaT Aligner" creationdate="20230516T122747Z">
+        <seg>Esto significa que los amigos influyen enormemente en la vida social de un adolescente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This means that peer pressure could be high in case a student resided within the campus premises.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230516T122747Z" creationid="OmegaT Aligner" creationdate="20230516T122747Z">
+        <seg>Esto significa que la presión de los compañeros podría ser alta en caso de que un estudiante residiera dentro de las instalaciones del campus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This would entail checking the physical appearance, losing weight and maintaining an attractive body shape.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230516T122747Z" creationid="OmegaT Aligner" creationdate="20230516T122747Z">
+        <seg>Esto implicaría revisar el aspecto físico, perder peso y mantener una forma corporal atractiva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This would imply that they start discussing with peers issues affecting them as opposed to discussing with their parents.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230516T122747Z" creationid="OmegaT Aligner" creationdate="20230516T122747Z">
+        <seg>Esto implica que empiezan a hablar con sus iguales de los problemas que les afectan, en lugar de hacerlo con sus padres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This would still depend on the mass media since the media suggests that certain body figures are ideal as opposed to others.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230516T122747Z" creationid="OmegaT Aligner" creationdate="20230516T122747Z">
+        <seg>Esto sigue dependiendo de los medios de comunicación, ya que éstos sugieren que ciertas figuras corporales son ideales en contraposición a otras.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Those students who lived in campus were found to suffer from eating disorders since they tried to put themselves in diet in order to comply with the demands of their peers.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230516T122747Z" creationid="OmegaT Aligner" creationdate="20230516T122747Z">
+        <seg>Se descubrió que los estudiantes que vivían en el campus sufrían trastornos alimentarios, ya que intentaban ponerse a dieta para cumplir con las exigencias de sus compañeros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Though today’s female body image involves a muscle tone as, which reflects gender equality, slenderness has remained the key feature of the social perception of women’s physical beauty (Grogan, 1998).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230505T105330Z" creationid="OmegaT Aligner" creationdate="20230505T105330Z">
+        <seg>Aunque la imagen actual del cuerpo femenino implica un tono muscular como, lo que refleja la igualdad de género, la delgadez ha seguido siendo la característica clave de la percepción social de la belleza física de la mujer (Grogan, 1998).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Thus, an average model weighs 117 pounds being 5’11’’ tall while an average woman weighs 140 pounds being 5’4’’ tall.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230502T065353Z" creationid="paula" creationdate="20230502T065353Z">
+        <seg>Así pues, una modelo normalmente pesa 53kg y mide al rededor de 1,55m, mientras que la mujer promedio pesa 63kg y mide 1,64. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Thus, thin body types promoted by the contemporary fashion magazines and other resources (Grogan, 1998), replaced ample curves of women in the middle Ages.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230505T105330Z" creationid="OmegaT Aligner" creationdate="20230505T105330Z">
+        <seg>Así, los tipos de cuerpo delgado promovidos por las revistas de moda contemporáneas y otros recursos (Grogan, 1998), sustituyeron a las amplias curvas de las mujeres de la Edad Media.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Today, slimness is associated not only with physical beauty, but it has become a symbol of self-control, youthfulness, elegance, success, and social attractiveness.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230505T110131Z" creationid="OmegaT Aligner" creationdate="20230505T105330Z">
+        <seg>Hoy en día, la delgadez se asocia no solo con la belleza física, sino que se ha convertido en un símbolo de autocontrol, juventud, elegancia, éxito y atractivo social.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>While fashion model become thinner, females are considered getting heavier.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230507T182938Z" creationid="paula" creationdate="20230507T182938Z">
+        <seg>Mientras que las modelos se vuelven más delgadas, se considera que las mujeres se están volviendo más gordas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>While the family would only urge children to adopt certain diets, the media would influence children to believe that certain body figures are superior to others.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230516T122747Z" creationid="OmegaT Aligner" creationdate="20230516T122747Z">
+        <seg>Mientras que la familia sólo instaría a los niños a adoptar determinadas dietas, los medios de comunicación influirían en los niños para que creyeran que determinadas figuras corporales son superiores a otras.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Youths would frequently relate to friends more as compared to their parents, which would further affect their capabilities in social circumstances.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230516T122747Z" creationid="OmegaT Aligner" creationdate="20230516T122747Z">
+        <seg>Con frecuencia, los jóvenes se relacionan más con sus amigos que con sus padres, lo que afecta aún más a sus capacidades en circunstancias sociales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>tailored to your instructions &lt;br2&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230501T170438Z" creationid="paula" creationdate="20230501T170438Z">
+        <seg>adaptado a sus instrucciones</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
