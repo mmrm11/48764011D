@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c32062534" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1656,8 +1656,8 @@
       <tuv lang="en">
         <seg>Parental encouragement of activities aimed at losing weight and keeping to a diet is likely to provoke body dissatisfaction among their children (Markey, &amp; Markey 2010).</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="esteban" changedate="20230502T100311Z" creationid="esteban" creationdate="20230502T100311Z">
-        <seg>El estímulo de los padres a las acxtividades destinadas a perder peso y mantener una dieta puede provocar insatisfacción corporal entre sus hijos(Markey, &amp; Markey2010).</seg>
+      <tuv lang="es-ES" changeid="paula" changedate="20230531T205740Z" creationid="esteban" creationdate="20230502T100311Z">
+        <seg>El estímulo de los padres a las actividades destinadas a perder peso y mantener una dieta puede provocar insatisfacción corporal entre sus hijos (Markey, &amp; Markey2010).</seg>
       </tuv>
     </tu>
     <tu>
@@ -1673,8 +1673,8 @@
       <tuv lang="en">
         <seg>Peer communication also contributes to shaping adolescents’ feelings and perceptions of their bodies.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="esteban" changedate="20230505T094127Z" creationid="esteban" creationdate="20230502T100750Z">
-        <seg>La comunicación entre pares también contribuye a moldear los sentimientos y percepciones de los adolescentes sobre sus cuerpos.</seg>
+      <tuv lang="es-ES" changeid="paula" changedate="20230531T210541Z" creationid="esteban" creationdate="20230502T100750Z">
+        <seg>La comunicación entre compañeros también contribuye a moldear los sentimientos y percepciones de los adolescentes sobre sus cuerpos.</seg>
       </tuv>
     </tu>
     <tu>
