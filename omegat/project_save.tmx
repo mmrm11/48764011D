@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c32062534" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2934,14 +2934,6 @@
       </tuv>
       <tuv lang="es-ES" changeid="lopez" changedate="20230516T133136Z" creationid="lopez" creationdate="20230516T133136Z">
         <seg>4en-US</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>https://studycorgi.com/free-writing-tools/essay-hook-generator/</seg>
-      </tuv>
-      <tuv lang="es-ES" changeid="lopez" changedate="20230516T133353Z" creationid="lopez" creationdate="20230516T133353Z">
-        <seg>uhttps://studycorgi.com/free-writing-tools/essay-hook-generator/</seg>
       </tuv>
     </tu>
     <tu>
