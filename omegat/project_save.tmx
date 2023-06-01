@@ -485,8 +485,8 @@
       <tuv lang="en">
         <seg>Children grow up knowing that only recommended shapes are allowed in society.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230516T122747Z" creationid="OmegaT Aligner" creationdate="20230516T122747Z">
-        <seg>Los niños crecen sabiendo que en la sociedad sólo se permiten las formas recomendadas.</seg>
+      <tuv lang="es-ES" changeid="marmo" changedate="20230601T222338Z" creationid="OmegaT Aligner" creationdate="20230516T122747Z">
+        <seg>Los niños crecen sabiendo que en la sociedad solo se permiten las formas recomendadas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1664,9 +1664,8 @@
       <tuv lang="en">
         <seg>Paxton, Wertheim, Gibbons, Szmukler, Hillier, &amp; Petrovich, (1991) conducted a survey of 221 male and 341 female high school students.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="lopez" changedate="20230504T182405Z" creationid="lopez" creationdate="20230504T182405Z">
-        <seg>Paxton, Wertheim, Gibbons, Szmukler, Hillier y Petrovich (1991) realizaron una encuesta entre 221 alumnos y 341 alumnas de secundaria. 
-</seg>
+      <tuv lang="es-ES" changeid="marmo" changedate="20230601T222428Z" creationid="lopez" creationdate="20230504T182405Z">
+        <seg>Paxton, Wertheim, Gibbons, Szmukler, Hillier y Petrovich (1991) realizaron una encuesta entre 221 alumnos y 341 alumnas de secundaria. </seg>
       </tuv>
     </tu>
     <tu>
@@ -2108,8 +2107,8 @@
       <tuv lang="en">
         <seg>The bulimic behavior could only be investigated by considering whether a student resided within the campus premises or went home after classes.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="marmo" changedate="20230601T222245Z" creationid="OmegaT Aligner" creationdate="20230516T122747Z">
-        <seg>El comportamiento bulímico sólo pudo investigarse teniendo en cuenta si el estudiante residía dentro de las instalaciones del campus o se iba a casa después de las clases.</seg>
+      <tuv lang="es-ES" changeid="marmo" changedate="20230601T222308Z" creationid="OmegaT Aligner" creationdate="20230516T122747Z">
+        <seg>El comportamiento bulímico solo pudo investigarse teniendo en cuenta si el estudiante residía dentro de las instalaciones del campus o se iba a casa después de las clases.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3188,8 +3187,8 @@
       <tuv lang="en">
         <seg>While the family would only urge children to adopt certain diets, the media would influence children to believe that certain body figures are superior to others.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230516T122747Z" creationid="OmegaT Aligner" creationdate="20230516T122747Z">
-        <seg>Mientras que la familia sólo instaría a los niños a adoptar determinadas dietas, los medios de comunicación influirían en los niños para que creyeran que determinadas figuras corporales son superiores a otras.</seg>
+      <tuv lang="es-ES" changeid="marmo" changedate="20230601T222330Z" creationid="OmegaT Aligner" creationdate="20230516T122747Z">
+        <seg>Mientras que la familia solo instaría a los niños a adoptar determinadas dietas, los medios de comunicación influirían en los niños para que creyeran que determinadas figuras corporales son superiores a otras.</seg>
       </tuv>
     </tu>
     <tu>
